@@ -3,7 +3,7 @@
 
 These are my task as a UI/UX intern at "**Simplbyte**".
 
-TASK 1: Design an animated landing page. -> I created an animated travel agency landing page which name is "Travelog".
+**Simbt_taskno 1**: Design an animated landing page. -> I created an animated travel agency landing page which name is "Travelog".
 
 -> Below here is the link for the prototype: 
 
@@ -18,7 +18,7 @@ Mobile version :- https://www.figma.com/proto/Gi1IBXOxTCTzI1GxbEqHYs/Travelog-La
 
 
 
-TASK 2: Design a quiz app. -> I created a simple quiz app, name is "**Queezy**".
+**Simbt_taskno 2**: Design a quiz app. -> I created a simple quiz app, name is "**Queezy**".
 
 -> Below here is the link for the prototype: 
 

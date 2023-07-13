@@ -14,3 +14,15 @@ Tablet version :- https://www.figma.com/proto/Gi1IBXOxTCTzI1GxbEqHYs/Travelog-La
 
 
 Mobile version :- https://www.figma.com/proto/Gi1IBXOxTCTzI1GxbEqHYs/Travelog-Landing-Page?type=design&node-id=116-321&t=120QLawiMvmbMv9r-1&scaling=contain&page-id=0%3A1&starting-point-node-id=116%3A321&mode=design
+
+
+
+
+TASK 2: Design a quiz app. -> I created a simple quiz app, name is "**Queezy**".
+
+-> Below here is the link for the prototype: 
+
+https://www.figma.com/proto/Q5jahg9PCnhwYcxFtEeX7L/Quiz-app?type=design&node-id=4-65&t=BwHlGlfwbdNrvxiL-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A65&mode=design
+
+
+
